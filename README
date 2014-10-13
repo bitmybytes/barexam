@@ -1,8 +1,8 @@
 barexam - A collection of example erlang applications that uses rebar 
 =====================================================================
 
-1. myapp - example app from rebar github wiki
-2. hello.erl - example hello world app
+1. helloworld.erl - helloworld app.
+2. hellonif - helloworld app that uses NIF (Native Implemented Function).
 
 License
 =======
