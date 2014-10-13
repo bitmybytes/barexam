@@ -1,0 +1,5 @@
+helloworld.app.src -> OTP application specification
+helloworld_app.erl -> An implementation of the OTP Application behaviour
+helloworld_sup.erl -> An implementation of the OTP Supervisor behaviour (top level
+        supervisor of the application)
+
